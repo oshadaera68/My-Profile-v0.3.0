@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/main2.jpg") top right;
+  background: url("../img/back2.jpg") top right;
   background-size: cover;
   position: relative;
 }
@@ -641,26 +641,8 @@ section {
 #sql{
   background-color: #77ACF1;
 }
-#react{
+#hibernate{
   background-color: #125D98;
-}
-#reactnative{
-  background-color: #7C83FD;
-}
-#flutter{
-  background-color: #3EDBF0;
-}
-#spring{
-  background-color: #01937C;
-}
-#nodejs{
-  background-color: #71EFA3;
-}
-#mongo{
-  background-color: #57837B;
-}
-#express{
-  background-color: #2C2E43;
 }
   /*--------------------------------------------------------------
   # My Resume
@@ -1333,7 +1315,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/footer-bg.jpg") top center no-repeat;
+  background: url("../img/back3.jpg") top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
