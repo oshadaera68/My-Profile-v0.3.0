@@ -1268,7 +1268,7 @@ section {
   font-size: 14px;
 }
 
-.contact .php-email-form input::focus, .contact .php-email-form textarea::focus {
+.contact .php-email-form input:focus, .contact .php-email-form textarea:focus {
   background-color: #ffb727;
 }
 
@@ -1315,12 +1315,12 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: url("../img/back3.jpg") top center no-repeat;
+  background: url(../img/back3.jpg) top center no-repeat;
   background-size: cover;
   color: #fff;
   font-size: 14px;
   text-align: center;
-  padding: 80px 0;
+  padding: 32px 0;
   position: relative;
 }
 
@@ -1349,7 +1349,7 @@ section {
 }
 
 #footer p {
-  font-size: 15;
+  font-size: 15px;
   font-style: italic;
   padding: 0;
   margin: 0 0 40px 0;
